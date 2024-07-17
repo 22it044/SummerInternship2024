@@ -31,7 +31,9 @@ This repository documents my 4-week summer internship focused on WordPress. Duri
 
 ## Conclusion
 This first week of the internship proved to be an enriching learning experience. It ignited my passion for WordPress and opened doors to the vast potential this platform offers. I am eager to embark on the remaining weeks of the internship, equipped with this foundational knowledge and excited to explore the exciting world of website development with WordPress!
- <br>
+ 
+ <br><br>
+
 
 ## Week 2: Content Creation and Menu Management
 - **Content Creation**: Established the blog post section by creating sample posts and familiarizing myself with the post editor.
@@ -65,6 +67,7 @@ This week was dedicated to establishing a solid foundation for our website's con
 ## Conclusion
 This week equipped me with valuable skills for building website content and structure. I'm excited to leverage these learnings and delve deeper into website functionalities in the coming weeks!
 
+<br><br>
 
 ## Week 3: Enhancing Aesthetics and Functionality
 - **Visual Appeal**: Conducted layout customizations for products, categories, and essential pages like Home and Shop. Prioritized creating an aesthetically pleasing experience for the target audience.
@@ -94,6 +97,7 @@ This week was all about transforming the website's look and feel, aligning it pe
 ## Conclusion
 This week equipped me with valuable skills for enhancing website aesthetics and functionality. I'm excited to leverage these learnings and keep pushing the website towards a successful finish line!
 
+<br><br>
 
 ## Week 4: Dedicated Website Development
 - **Product Management**: Managed a number of products (>20) with multiple color variations (20 per product). Uploaded individual product photos, ensuring high quality and consistent presentation.

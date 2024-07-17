@@ -132,6 +132,7 @@ This week was dedicated to propelling the baby shower can koozie website forward
 ## Conclusion
 This week equipped me with valuable skills for managing products, creating content, and maintaining a smooth-running website. Most importantly, we've laid the groundwork for a captivating homepage that will draw customers in and make our baby shower can koozies the life of the party!
 
+<br><br>
 
 ## Conclusion of the Internship Experience
 This internship provided a comprehensive learning experience in WordPress development, from basic setup and customization to advanced design and maintenance. The skills and knowledge gained during these four weeks have equipped me with the confidence to tackle future WordPress projects with creativity and technical proficiency.

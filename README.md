@@ -31,7 +31,7 @@ This repository documents my 4-week summer internship focused on WordPress. Duri
 
 ## Conclusion
 This first week of the internship proved to be an enriching learning experience. It ignited my passion for WordPress and opened doors to the vast potential this platform offers. I am eager to embark on the remaining weeks of the internship, equipped with this foundational knowledge and excited to explore the exciting world of website development with WordPress!
- 
+ <br>
 
 ## Week 2: Content Creation and Menu Management
 - **Content Creation**: Established the blog post section by creating sample posts and familiarizing myself with the post editor.

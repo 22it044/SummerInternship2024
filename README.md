@@ -41,6 +41,6 @@ This internship provided a comprehensive learning experience in WordPress develo
 Feel free to clone or fork this repository to explore the specific implementations and customizations made during this internship.
 
 **Contact Information**
-- **Name**: Shrivardhansinh
-- **Email**: [Your Email Address]
+- **Name**: Shrivardhansinh Jadeja
+- **Email**: jadejashrivardhansinh@gmail.comm
 - **GitHub**: [Your GitHub Profile Link]
